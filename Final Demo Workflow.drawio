@@ -4000,7 +4000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MdCtTZqWNqKHZwQQEt6H" name="Page-8">
-    <mxGraphModel dx="1140" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1065" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4134,8 +4134,26 @@
         <mxCell id="0n5qfxNrtm_qiQsKSRcu-29" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;loaylty tiers&lt;/div&gt;&lt;div&gt;- you can add&amp;nbsp; atier (click on create button)&lt;/div&gt;&lt;div&gt;- mention the use of name (human readbale), code, and minimum ifetime points&lt;/div&gt;&lt;div&gt;- show how to edit the existing ones.&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="290" x="570" y="1050" as="geometry" />
         </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-34" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0n5qfxNrtm_qiQsKSRcu-31" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;transactions&lt;/div&gt;&lt;div&gt;- show transactions. mention its not merchant specific and admins have a view of all transactions&lt;/div&gt;&lt;div&gt;- show detailed view of transaction.&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="290" x="570" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-36" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-33" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;risk monitoring&lt;/div&gt;&lt;div&gt;- the backend uses a gradient boosted ML model to review transactions and identify suspocious activity.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- transactions flagged arent blocked but are up for review.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- show how each transactio can be re-reviwed. show how they all can be re-reveiwd.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="310" x="570" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-38" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-35" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;audit log&lt;/div&gt;&lt;div&gt;- just mention that everything is logged and tracked&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="570" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-37" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;settings&lt;/div&gt;&lt;div&gt;- show how global configs can be set, like the platform welcome bonus , expiry, max birtday rewards and so on&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="290" x="570" y="1540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
