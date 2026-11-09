@@ -4197,8 +4197,26 @@
         <mxCell id="ZKQtKMwDI3AfJmeNLbkp-12" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;award points&lt;/div&gt;&lt;div&gt;- show it as a manual method to award points to users in case of manul transactions&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="260" x="190" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-14" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;redeem points&lt;/div&gt;&lt;div&gt;&amp;nbsp;- while most redeeming will be done in the POS, good to redeem manualy too&lt;/div&gt;" vertex="1">
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-17" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-14" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;redeem points&lt;/div&gt;&lt;div&gt;&amp;nbsp;- while most redeeming will be done in the POS, good to redeem manualy too&lt;/div&gt;&amp;nbsp;- show redeem product, similar to POS" vertex="1">
           <mxGeometry height="90" width="276" x="197" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-21" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-16" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;customer&lt;/div&gt;&lt;div&gt;- click on one customer&lt;/div&gt;&lt;div&gt;&amp;nbsp;- show trans&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="276" x="199.5" y="1370" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-24" edge="1" parent="1" source="ZKQtKMwDI3AfJmeNLbkp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="ZKQtKMwDI3AfJmeNLbkp-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-20" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="SWITCH TO NEXT PERON" vertex="1">
+          <mxGeometry height="60" width="120" x="286" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKQtKMwDI3AfJmeNLbkp-22" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;tour guid&lt;/div&gt;&lt;div&gt;- in case you forgot how to use the system, you can always click here&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="233" x="211.5" y="1600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
