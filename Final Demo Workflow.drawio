@@ -4000,7 +4000,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MdCtTZqWNqKHZwQQEt6H" name="Page-8">
-    <mxGraphModel dx="969" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1140" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4088,6 +4088,54 @@
         </mxCell>
         <mxCell id="0n5qfxNrtm_qiQsKSRcu-16" edge="1" parent="1" source="7UnFukDOJ1c-F53y9DX--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-14">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="84" width="139" x="356" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-18" parent="0n5qfxNrtm_qiQsKSRcu-17" style="whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacing=5;" value="Superadmin Panel" vertex="1">
+          <mxGeometry height="70" width="130" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-19" parent="0n5qfxNrtm_qiQsKSRcu-17" style="whiteSpace=wrap;html=1;align=center;rounded=1;roundedPerimeter=1;" value="3a" vertex="1">
+          <mxGeometry height="30" width="30" x="109" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-20" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-24" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-21" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;overview page&lt;/div&gt;&lt;div&gt;- mention the analytcis&lt;/div&gt;&lt;div&gt;- mention the quick actions&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="170" x="570" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-22" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-26" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-23" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;merchants&lt;/div&gt;&lt;div&gt;- show create merchant dialoge.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- mention custom color, logo, show invite merchant&lt;/div&gt;&lt;div&gt;- click on one of the merchants -&amp;gt; go to details page&lt;/div&gt;&lt;div&gt;- show to invite other admins, add branches, edit details&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="260" x="570" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-28" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-25" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Users&lt;/div&gt;&lt;div&gt;- show table, pagination, filters, search&lt;/div&gt;&lt;div&gt;- search for motor&lt;/div&gt;&lt;div&gt;- mention search using debouncing&lt;/div&gt;&lt;div&gt;- show filters.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- click on the user.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- show you can edit&lt;/div&gt;&lt;div&gt;- show manage access&lt;/div&gt;&lt;div&gt;- click on the associated policy profile&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="320" x="570" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-30" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-27" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;User profile - C Motors Admin&lt;/div&gt;&lt;div&gt;- show how some polices are entered and how some arent.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- mention nothing is hard coded like if role == admin. every widget, every screen, every api call relies on policies.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- press back to go to the actual policies page.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- mention the difference between Platform, Template, Merchant and Customer Scopes.&amp;nbsp;&lt;/div&gt;&lt;div&gt;- show how policies can be selected.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="320" x="570" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-32" edge="1" parent="1" source="0n5qfxNrtm_qiQsKSRcu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="0n5qfxNrtm_qiQsKSRcu-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-29" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;loaylty tiers&lt;/div&gt;&lt;div&gt;- you can add&amp;nbsp; atier (click on create button)&lt;/div&gt;&lt;div&gt;- mention the use of name (human readbale), code, and minimum ifetime points&lt;/div&gt;&lt;div&gt;- show how to edit the existing ones.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="290" x="570" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="0n5qfxNrtm_qiQsKSRcu-31" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;transactions&lt;/div&gt;&lt;div&gt;- show transactions. mention its not merchant specific and admins have a view of all transactions&lt;/div&gt;&lt;div&gt;- show detailed view of transaction.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="290" x="570" y="1180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
